@@ -10,11 +10,13 @@
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	},
 	{
-		"name": "My other wallpaper",
-		"author": "Jahir Fiquitiva",
-		"url": "https://www.mywebsite.com/wallpapers/my_other_wallpaper.png",
+		"name": "Leaf",
+		"author": "TheCatgend27",
+		"url": "https://raw.githubusercontent.com/benneb1020301/wallpapers-json/master/_DSC0327-2.jpg",
 		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_other_wallpaper.png",
-		"downloadable": false,
+		"downloadable": true,
+		"size": 1040000,
+		"dimensions": "3072 x 4608v px",
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	}
 ]
